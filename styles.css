@@ -1,0 +1,36 @@
+body {
+    background-color: #e8f0fe;
+    font-family: "Times New Roman", sans-serif;
+    color: #333333;
+    padding: 20px;
+}
+
+h1 {
+    text-align: left;
+    color: #000000;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-style: italic;
+    margin: 10px 0;
+}
+
+ol {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.square {
+    list-style-type: square;
+	margin-left: 20px;
+    margin-top: 10px;
+}
+
+.circle {
+    list-style-type: circle;
+	margin-left: 20px;
+    margin-top: 10px;
+}
